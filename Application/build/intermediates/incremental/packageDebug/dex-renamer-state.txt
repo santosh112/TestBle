@@ -1,0 +1,7 @@
+#Mon Jan 09 22:51:08 IST 2017
+base.0=/home/santoshkumar/Documents/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbe28538b01e1f7bc95af4ee8f192c5e5f687f22
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/santoshkumar/Documents/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af136b804505f01364775b74eb3ecdc187d255e2/classes.dex
+base.1=/home/santoshkumar/Documents/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af136b804505f01364775b74eb3ecdc187d255e2
+file.0=/home/santoshkumar/Documents/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbe28538b01e1f7bc95af4ee8f192c5e5f687f22/classes.dex
